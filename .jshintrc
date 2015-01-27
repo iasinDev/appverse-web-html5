@@ -24,7 +24,6 @@
         "describe": false,
         "it": false,
         "inject": false,
-        "module": false,
         "expect": false,
         "should": false,
         "before": false,
